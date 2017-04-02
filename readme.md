@@ -1,4 +1,4 @@
-# babel-value [![Build Status](https://travis-ci.org/jamestalmage/babel-value.svg?branch=master)](https://travis-ci.org/jamestalmage/babel-value)
+# babel-value [![Build Status](https://travis-ci.org/jamestalmage/babel-value.svg?branch=master)](https://travis-ci.org/jamestalmage/babel-value) [![Coverage Status](https://coveralls.io/repos/github/jamestalmage/babel-value/badge.svg?branch=master)](https://coveralls.io/github/jamestalmage/babel-value?branch=master)
 
 > Compute simple values from a babel AST.
 
