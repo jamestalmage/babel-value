@@ -19,7 +19,10 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "babel",
+    "compute",
+    "value",
+    "ast"
   ],
   "dependencies": {},
   "devDependencies": {
