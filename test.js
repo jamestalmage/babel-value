@@ -45,6 +45,10 @@ test('objects', t => {
 	t.deepEqual(fn(p('x = `\nfoo`')), '\nfoo');
 });
 
+test('arrays', t => {
+	t.deepEqual(fn(p(`x = [1, 2, 3]`)), [1, 2, 3]);
+});
+
 test('bad template usage', t => {
 	t.throws(() => fn(p('x = `hello ${name}`')), 'Template literals may not contain any computed values'); // eslint-disable-line no-template-curly-in-string
 });
