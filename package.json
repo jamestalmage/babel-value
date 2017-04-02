@@ -1,6 +1,6 @@
 {
   "name": "babel-value",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Compute simple values from a babel AST.",
   "license": "MIT",
   "repository": "jamestalmage/babel-value",
